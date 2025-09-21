@@ -6,11 +6,13 @@ div {
     display: inline-block;
 }
 
-.title {
+h1 {
     background-color:beige;
     font-size: 40px;
     font-weight: bold;
     text-align: center;
+    left: 50%;
+    padding: 10px;
 }
 
 .egg_tarts {
